@@ -1,18 +1,22 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Harshith+Venigalla;SDE+%40+InMobi+%7C+IIT+Gandhinagar+'26;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Harshith+Venigalla;SDE+%40+InMobi+%7C+IIT+Gandhinagar+'26;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" /></a
 
 <br/>
 
 <!-- Profile Views & Social Badges -->
-<p>
-  <a href="https://github.com/notgrid2005"><img src="https://komarev.com/ghpvc/?username=notgrid2005&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/></a>a>
-  <a href="https://github.com/notgrid2005?tab=followers"><img src="https://img.shields.io/github/followers/notgrid2005?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers"/></a>a>
-  <a href="https://github.com/notgrid2005?tab=repositories"><img src="https://img.shields.io/github/stars/notgrid2005?label=Total%20Stars&style=for-the-badge&color=6C63FF" alt="Stars"/></a>a>
-</p>p>
+<p
 
-</div>
+<a href="https://github.com/notgrid2005"><img src="https://komarev.com/ghpvc/?username=notgrid2005&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/></a
+
+<a href="https://github.com/notgrid2005?tab=followers"><img src="https://img.shields.io/github/followers/notgrid2005?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers"/></a
+
+<a href="https://github.com/notgrid2005?tab=repositories"><img src="https://img.shields.io/github/stars/notgrid2005?label=Total%20Stars&style=for-the-badge&color=6C63FF" alt="Stars"/></a
+
+</p
+
+</div
 
 ---
 
@@ -32,7 +36,7 @@ currently_working_on: Multi-Agent AI Systems & Scalable Backend Services
 fun_fact: I built an AI that plays Connect4 better than most humans
 ```
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" >/
 
 - Currently: SDE at InMobi - building scalable ad-tech solutions
 - - Education: IIT Gandhinagar - CPI 8.22/10
@@ -45,7 +49,7 @@ fun_fact: I built an AI that plays Connect4 better than most humans
 
           ## Tech Stack
 
-          <div align="center">
+          <div align="center"
 
           ### Languages
           ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -77,69 +81,69 @@ fun_fact: I built an AI that plays Connect4 better than most humans
           ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
           ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-          </div>
+          iv
 
           ---
 
           ## GitHub Stats
 
-          <div align="center">
+          <div align="center"
 
-          <a href="https://github.com/notgrid2005">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notgrid2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9"/>
-              <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notgrid2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9"/>
-          </a>a>
+          <a href="https://github.com/notgrid2005"
+            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notgrid2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" /
+            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notgrid2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" /
+          </a
 
-          <br/><br/>
+          <br/
 
-          <a href="https://github.com/notgrid2005">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=notgrid2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
-          </a>a>
+          <a href="https://github.com/notgrid2005"
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=notgrid2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" /
+          </a
 
-          </div>
+          </div
 
           ---
 
           ## GitHub Trophies
 
-          <div align="center">
+          <div align="center"
 
-          <a href="https://github.com/notgrid2005">
-            <img src="https://github-profile-trophy.vercel.app/?username=notgrid2005&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
-          </a>a>
+          <a href="https://github.com/notgrid2005"
+            <img src="https://github-profile-trophy.vercel.app/?username=notgrid2005&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" /
+          </a
 
-          </div>
+          </div
 
           ---
 
           ## Featured Projects
 
-          <div align="center">
+          <div align="center"
 
-          <a href="https://github.com/notgrid2005/multi-agent-research-system">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=notgrid2005&repo=multi-agent-research-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-          </a>a>
-          <a href="https://github.com/notgrid2005/neural-network-from-scratch">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=notgrid2005&repo=neural-network-from-scratch&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-          </a>a>
-          <a href="https://github.com/notgrid2005/connect4-ai-engine">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=notgrid2005&repo=connect4-ai-engine&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-          </a>a>
-          <a href="https://github.com/notgrid2005/real-time-chat-app">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=notgrid2005&repo=real-time-chat-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-          </a>a>
+          <a href="https://github.com/notgrid2005/multi-agent-research-system"
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=notgrid2005&repo=multi-agent-research-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" /
+          </a
+          <a href="https://github.com/notgrid2005/neural-network-from-scratch"
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=notgrid2005&repo=neural-network-from-scratch&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" /
+          </a
+          <a href="https://github.com/notgrid2005/connect4-ai-engine"
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=notgrid2005&repo=connect4-ai-engine&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" /
+          </a
+          <a href="https://github.com/notgrid2005/real-time-chat-app"
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=notgrid2005&repo=real-time-chat-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" /
+          </a
 
-          </div>
+          </div
 
           ---
 
           ## Contribution Graph
 
-          <div align="center">
+          <div align="center"
 
-          <a href="https://github.com/notgrid2005">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=notgrid2005&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-          </a>a>
+          <a href="https://github.com/notgrid2005"
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=notgrid2005&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" /
+          </a>
 
           </div>
 
@@ -149,19 +153,18 @@ fun_fact: I built an AI that plays Connect4 better than most humans
 
           ### Let's Connect!
 
-          <a href="https://www.linkedin.com/in/harshith-venigalla-b0b004259/">
-            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-          </a>a>
-          <a href="mailto:harshith.venigalla@iitgn.ac.in">
-            <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-          </a>a>
-          <a href="https://github.com/notgrid2005">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-          </a>a>
+          <a href="https://www.linkedin.com/in/harshith-venigalla-b0b004259/"
+            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /
+          </a>
+          <a href="mailto:harshith.venigalla@iitgn.ac.in"
+            <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /
+          </a>
+          <a href="https://github.com/notgrid2005"
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /
+          </a>
 
-          <br/><br/>
+          <br/
 
-          <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+          <img src="https://capsule-render.vercel.app/apitype=waving&color=gradient&customCo>lorList=6,11,20&height=100&section=footer" width=>100%" /
 
-          </div>
-</p
+      </div>i          
